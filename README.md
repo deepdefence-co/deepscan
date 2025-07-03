@@ -23,7 +23,7 @@ Download the deepscan.zip. Unzip to a folder (say, d:\deepscan):\
 			chmod +x run.sh\
 			./run.sh				\
 	Note: First time can take upto 10 minutes while all docker images are pulled/built.\
-	5. Open your browser and navigate to http://localhost:5021. You can perform various security tests using the UI.\
+	5. Open your browser and navigate to http://<your machine ip>:5021. You can perform various security tests using the UI.\
 	6. To stop: stop.cmd  (or ./stop.sh for Mac)\
  
 
