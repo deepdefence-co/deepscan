@@ -1,7 +1,7 @@
 
 # DeepScan
 # What is it
-Deepscan is a Docker based solution for security testing software. The solution includes a simple web interface, using which you can do:\
+Deepscan is a Docker based solution for security testing software. The solution includes a web interface, using which you can do:\
      . Vulnerability testing of websites \
      . Network scanning\
      . Cloud security\
