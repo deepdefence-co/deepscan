@@ -25,7 +25,10 @@ Download the deepscan.zip. Unzip to a folder (say, d:\deepscan):\
 	Note: First time can take upto 10 minutes while all docker images are pulled/built.\
 	5. Open your browser and navigate to http://machine_ip:5021. You can perform various security tests using the UI.\
 	6. To stop: stop.cmd  (or ./stop.sh for Mac)
- 
+
+# How it looks
+![Alt text](./deepscan_ui.png?raw=true "DeepScan Wen Interface")
+
 # License
 The solution includes a 6 month license. No signup required. The usage is as per the terms and policies mentioned on the website <a href='https://www/deepdefence.co'>https://www.deepdefence.co</a> 
 
